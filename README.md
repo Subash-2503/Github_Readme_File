@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Intership opportunities**
 
-- 👨‍💻 All of my projects are available at [httpstinyurl.comsubashport.txt](httpstinyurl.comsubashport.txt)
+- 👨‍💻 All of my projects are available at [https://tinyurl.com/subashport](https://tinyurl.com/subashport)
 
 - 💬 Ask me about **Complicated Embedded system and Solidwords design**
 
